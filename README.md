@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kuldeep063
-- 👀 I’m interested in Cybersecurity
+- 👀 I’m interested in Cybersecurity,Ethical Hacking,AI
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me kuldeepchoudhary1047@gmail.om
 
 <!---
